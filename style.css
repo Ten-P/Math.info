@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    min-height:100vh;
+    display:flex;
+    flex-direction: column;
+}
+header{
+    height: 100px;
+    outline: 1px solid gray;
+    background-color: lightcyan;
+    font-size: 80px;
+}
+div{
+    display:flex;
+    flex:1;
+}
+main{
+    flex:1;
+    outline: 1px solid gray;
+}
+nav{
+    width:20px;
+    outline: 1px solid gray;
+}
+aside{
+    width:400px;
+    outline: 1px solid gray;
+}
+footer{
+    height:200px;
+    outline: 1px solid gary;
+    background-color: lightcyan;
+}
+h{
+    margin: 450px;
+}
